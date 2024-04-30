@@ -60,5 +60,7 @@ esto lo desarrollaré en una nota al pié [^1]:
 
 [^1]: que desarrollaré aquí
 
+también hay emojis para celebrar el wdc. :+1: o :shipit: por ejemplo
+
 
 
