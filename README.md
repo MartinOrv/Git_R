@@ -25,6 +25,26 @@ Y si quereis poner un link tendreis que poner [nombre que aparecerá](https://le
 
 ![Aqui ponemos una pequeña descripcion de la imagen para las personas que no pueden ver y para que el buscador nos posicione mejor](https://fotografias.antena3.com/clipping/cmsimages01/2023/02/09/9B15C034-6FEF-4A5B-894A-ADF1272A9662/fernando-alonso-imagen-facilitada-aston-martin_104.jpg?crop=800,800,x0,y0&width=1200&height=1200&optimize=low&format=webply)
 
+<img src="https://fotografias.lasexta.com/clipping/cmsimages02/2023/11/11/13EAFA71-CB49-4351-8CE7-813D206F9092/hamilton-fernando-alonso_98.jpg?crop=1200,675,x0,y0&width=1900&height=1069&optimize=low&format=webply" alt="asi se mete la descripcion html" width="100" height="100">
+
+si quiero crear una lista puedo usar_
+- esto
+- guión
+
+o: 
+* esto
+* asterisco
+
+o:
+
++ el plus
+
+si quiero que sea una lista ordenada 
+
+1. uno
+2. dos
+3. tres
+
 ## Así es un subtitulo
 ### esto es un título de tercer nivel
 #### y asi sucesivamente 
