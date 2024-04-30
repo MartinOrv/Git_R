@@ -56,9 +56,9 @@ si quiero que sea una lista ordenada
 37. wdc
 
 
-esto lo desarrollaré en una nota al pié [^1]
+esto lo desarrollaré en una nota al pié [^1]:
 
-[^1] que desarrollaré aquí
+[^1]: que desarrollaré aquí
 
 
 
