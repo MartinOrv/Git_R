@@ -62,20 +62,21 @@ esto lo desarrollaré en una nota al pié [^1]:
 
 también hay emojis para celebrar el wdc. 🥇 o 🤨 por ejemplo
 
-[!NOTE]
+> [!NOTE]
 información útil que quiero puntualizar.
 
-[!TIP]
+> [!TIP]
 consejos sobre como interpretar mejor lo que sea mejor
 
-[!IMPORTANT]
+> [!IMPORTANT]
 no hacer ruido
 
-[!WARNING]
+> [!WARNING]
 para que urko no se enfade.
 
-[!CAUTION]
-
+> [!CAUTION]
 Porque tiene caracter
+>nrfjsna
+
 
 
