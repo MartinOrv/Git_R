@@ -1,4 +1,8 @@
 # Esto es un título Principal
+## Así es un subtitulo
+### esto es un título de tercer nivel
+#### y asi sucesivamente 
+#SI no espacias no sale como título
 
 Para escribir se escribe normal si quiero **negrita** uso "**" antes y después de las palabras. 
 Si quiero *cursivas* bastará con "*" un asterisco al principio y al final
@@ -45,9 +49,16 @@ si quiero que sea una lista ordenada
 2. dos
 3. tres
 
-## Así es un subtitulo
-### esto es un título de tercer nivel
-#### y asi sucesivamente 
-#SI no espacias no sale como título
+33. treintaytres
+34. bú
+35. magic
+36. samurai
+37. wdc
+
+
+esto lo desarrollaré en una nota al pié [^1]
+
+[^1] que desarrollaré aquí
+
 
 
